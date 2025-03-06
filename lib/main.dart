@@ -10,9 +10,14 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(body: GradientContainer()),
+      home: Scaffold(
+        body: GradientContainer(
+          Color.fromARGB(255, 216, 203, 117),
+          Color.fromARGB(255, 64, 70, 72),
+        ),
+      ),
     ); // TODO: implement build
   }
 }
