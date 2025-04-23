@@ -1,8 +1,7 @@
 # Dice Roller
 A Simple Dice Roller Flutter Project made while learning Flutter.
 
-## Supported Platforms
-- Android only currently.
+**Try & Test the app without downloading APK for it here - https://nikkhilpareek.github.io/Flutter-Dice-Roller/**
 
 ## Installation
 1. Install Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
